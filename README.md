@@ -1,4 +1,4 @@
-# Handwritten-Text-Recognition-Calculator
+## Handwritten-Text-Recognition-Calculator
 
 Smart Calculator is a mobile app that utilizes a smartphone's
 camera to scan and recognize mathematical expressions; the app then
